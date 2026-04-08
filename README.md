@@ -57,3 +57,24 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Author 
+Aneesa Rasheed
+# Product Details:
+📦 Product CRUD Laravel Project
+
+A simple Laravel-based CRUD application for managing products. This project allows users to Create, Read, Update, and Delete products with data stored in a MySQL database. It includes a clean and simple UI with basic styling for better user experience.
+
+🚀 Features:
+Add new products
+View all products in a table
+Edit existing products
+Delete products
+MySQL database integration
+Simple and responsive UI
+🛠 Tech Stack:
+Laravel Framework
+PHP
+MySQL
+HTML/CSS
+# Demo Video
+https://drive.google.com/file/d/1AttlJYY44L9qmcyagTXHY_s0gN6uclZo/view?usp=sharing
